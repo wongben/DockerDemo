@@ -1,4 +1,4 @@
-FROM ubantu:latest
+FROM ubuntu:latest
 MAINTAINER WongBen "wong915@gmail.com"
 RUN apt-get update
 RUN apt-get install -y apache2
